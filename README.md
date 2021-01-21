@@ -1,0 +1,2 @@
+# OhjelmointiTA
+Harjoistusrepositorio dokumentointia varten
